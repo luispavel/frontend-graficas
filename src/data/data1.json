@@ -1,0 +1,52 @@
+[
+    {
+        "tituloChart": "REVENUE",
+        "cantChart": "200.000$",
+        "tituloTabla1": "Tablet",
+        "text1class": "light-green--text",
+        "porcTabla1": 60,
+        "cantTabla1": "120.000€",
+        "tituloTabla2": "Smartphone",
+        "text2class": "green--text",
+        "porcTabla2": 40,
+        "cantTabla2": "80.000",
+        "sections": [
+            { "value": 40, "color": "#4CAF50" },
+            { "value": 60, "color": "#8BC34A" }
+        ]
+
+    },
+    {
+        "tituloChart": "IMPRESIONS",
+        "cantChart": "50.000.000",
+        "tituloTabla1": "Tablet",
+        "text1class": "light-blue--text",
+        "porcTabla1": 40,
+        "cantTabla1": "20.000.000",
+        "tituloTabla2": "Smartphone",
+        "text2class": "blue-grey--text",
+        "porcTabla2": 60,
+        "cantTabla2": "30.000.000",
+        "sections": [
+            { "value": 60, "color": "#607D8B" },
+            { "value": 40, "color": "#03A9F4" }
+        ]
+    },
+    {
+        "tituloChart": "VISITS",
+        "cantChart": "600.000.000",
+        "tituloTabla1": "Tablet",
+        "text1class": "amber--text",
+        "porcTabla1": 80,
+        "cantTabla1": "120.000€",
+        "tituloTabla2": "Smartphone",
+        "text2class": "red--text",
+        "porcTabla2": 20,
+        "cantTabla2": "80.000",
+        "sections": [
+            { "value": 20, "color": "#F44336" },
+            { "value": 80, "color": "#FFC107" }
+        ]
+
+    }
+]
